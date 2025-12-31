@@ -1,4 +1,5 @@
 # Project Lexy
+projectlexy.created.app
 
 Project Lexy is a service that provides **custom Discord bots** for communities at an affordable price.  
 We design bots that are modular, scalable, and tailored to your server’s unique needs.
